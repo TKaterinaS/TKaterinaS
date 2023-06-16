@@ -10,8 +10,8 @@
   
 ---------------------------------------------
   
-  ##  Приветствую! Добро пожаловать в мой профиль на GitHub!  <p align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  :blush:</p>
-  Познакомиться со мной можно по ссылке на мою личную страничку во ВКонтакте  :point_down:
+  #  Приветствую! Добро пожаловать в мой профиль на GitHub!  <p align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  :blush:</p>
+ ### Познакомиться со мной можно по ссылке на мою личную страничку во ВКонтакте  :point_down:
   
   <p align="center">
   <a href="https://vk.com/id105362000">
