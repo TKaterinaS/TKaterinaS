@@ -1,5 +1,5 @@
 
-  <img src="https://komarev.com/ghpvc/?username=TKaterinaS&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=TKaterinaS&style=plastic&color=blue" alt=""/>
 
 
 
