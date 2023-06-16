@@ -1,4 +1,4 @@
-
+<img src="https://komarev.com/ghpvc/?username=TKaterinaS&style=plastic&color=blue" alt=""/>
 
  <p align="center">
   <img src="https://media.giphy.com/media/wO2IwwZhEV8RxcjWxT/giphy.gif" width="150"/>
