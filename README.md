@@ -1,11 +1,12 @@
- <div id="badges">
-  <a href="https://TKaterinaS.com/ghpvc/?username=TKaterinaS">
-  <img src="https://img.shields.io/badge/-blue?logo=PROFILE VIEWS&logoColor=black&style=plastic&label=PROFILE+VIEWS&color=blue"alt=""/>
-  </div>
+
+  <img src="https://komarev.com/ghpvc/?username=TKaterinaS&style=flat-square&color=blue" alt=""/>
+
+
+
 
 
  <p align="center">
-  <img src="https://media.giphy.com/media/wO2IwwZhEV8RxcjWxT/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/wO2IwwZhEV8RxcjWxT/giphy.gif" width="150"/>
     </p>
   
 ---------------------------------------------
