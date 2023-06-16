@@ -1,9 +1,4 @@
 
-  <img src="https://komarev.com/ghpvc/?username=TKaterinaS&style=plastic&color=blue" alt=""/>
-
-
-
-
 
  <p align="center">
   <img src="https://media.giphy.com/media/wO2IwwZhEV8RxcjWxT/giphy.gif" width="150"/>
@@ -37,6 +32,7 @@
 - 📫 Как со мной связаться: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=plastic&logo=Telegram&logoColor=white)](https://t.me/T_Katerina_S)
   [![Yandex Badge](https://img.shields.io/badge/-Yandex-yellow?style=plastic&logo=Y&logoColor=white)](mailto:katerina.tokan@yandex.ru)
 - ⚡ В свободное время я читаю книгу Е.Г. Канеля "Основы программирования на JAVA для школьников и не только", смотрю видео уроки З. Трегулова.
+- 😉 Мое кредо по жизни: любая ошибка - это задача, а любая задача решаема.
   
 ---------------
   ### :hammer_and_wrench: Языки и инструменты :
